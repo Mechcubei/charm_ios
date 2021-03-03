@@ -1,0 +1,6 @@
+framework module Pods_Cham_ChamUITests {
+  umbrella header "Pods-Cham-ChamUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
